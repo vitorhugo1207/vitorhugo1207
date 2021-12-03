@@ -1,6 +1,6 @@
-<h1 style="font-size:40px;" align="center">Hi, you are welcome.</h1>
+<h1 style="font-size:40px;">Hi, you are welcome.</h1>
 
-<p style="font-size:40px;" align="center">
+<p style="font-size:40px;">
   About me: <br>
   I am doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript etc.
 </p>
