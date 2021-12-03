@@ -1,9 +1,10 @@
-<h1>Hey, folks!</h1>
+<h3>Hey, folks!</h3>
 
 <p>
   I am doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript etc.
 </p>
 
+<a href="https://www.youtube.com/channel/UC4TC99WPuSKTBzucWPAi93g">YouTube</a> • 
 
 <h2>GitHub Stats:</h2>
 <p>
