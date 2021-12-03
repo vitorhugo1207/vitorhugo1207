@@ -6,7 +6,7 @@
 
 <a href="https://www.youtube.com/channel/UC4TC99WPuSKTBzucWPAi93g">YouTube</a> • Discord: IkkiArtz#0733
 
-<br>
+<!--  -->
 
 <h2>GitHub Stats</h2>
 <p>
@@ -16,7 +16,7 @@
   </a>
 </p>
 
-<br>
+<!--  -->
 
 <h2>Languages and Tools</h2>
 <p>
