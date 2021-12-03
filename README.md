@@ -1,12 +1,14 @@
-<h3>Hey, folks!</h3>
+<h2>Hey, folks!</h2>
 
 <p>
   I am doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript etc.
 </p>
 
-<a href="https://www.youtube.com/channel/UC4TC99WPuSKTBzucWPAi93g">YouTube</a> • 
+<a href="https://www.youtube.com/channel/UC4TC99WPuSKTBzucWPAi93g">YouTube</a> • Discord: IkkiArtz#0733
 
-<h2>GitHub Stats:</h2>
+<br>
+
+<h2>GitHub Stats</h2>
 <p>
   <a href="" rel="noopener">
     <img src="https://github-readme-stats.vercel.app/api?username=vitorhugo1207&theme=blue-green">
@@ -14,8 +16,9 @@
   </a>
 </p>
 
+<br>
 
-<h2>Languages and Tools:</h2>
+<h2>Languages and Tools</h2>
 <p>
   <a href="" rel="noopener">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white">
