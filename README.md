@@ -1,4 +1,4 @@
-<h2>Hey, folks!</h2>
+<h2>👋 Hey, folks!</h2>
 
 <p>
   I am doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript etc.
@@ -8,7 +8,7 @@
 
 <!--  -->
 
-<h2>GitHub Stats</h2>
+<h2>📈 GitHub Stats</h2>
 <p>
   <a href="" rel="noopener">
     <img src="https://github-readme-stats.vercel.app/api?username=vitorhugo1207&theme=blue-green">
@@ -18,7 +18,7 @@
 
 <!--  -->
 
-<h2>Languages and Tools</h2>
+<h2>🛠️ Languages and Tools</h2>
 <p>
   <a href="" rel="noopener">
     <img src="https://img.shields.io/badge/Microsoft_Office-D83B01?style=for-the-badge&logo=microsoft-office&logoColor=white">
