@@ -1,7 +1,7 @@
 <h2>👋 Hey, folks!</h2>
 
 <p>
-  I am doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript, Windows, Linux (Arch-based and Debian) etc.
+  I am doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript, Windows, Linux (Arch-based and Debian-based) etc.
 </p>
 
 <h4><a href="https://www.youtube.com/channel/UC4TC99WPuSKTBzucWPAi93g">YouTube</a> • Discord: IkkiArtz#0733</h4>
