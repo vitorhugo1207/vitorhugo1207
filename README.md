@@ -5,16 +5,15 @@
 </p>
 
 <h4><a href="https://www.youtube.com/channel/UC4TC99WPuSKTBzucWPAi93g">YouTube</a> • Discord: IkkiArtz#0733</h4>
-
+  
 <!--  -->
 
 <h2>📈 GitHub Stats</h2>
-<p>
-  <a href="" rel="noopener">
-    <img src="https://github-readme-stats.vercel.app/api?username=vitorhugo1207&theme=blue-green">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugo1207&theme=blue-green">
-  </a>
-</p>
+<div>
+  <a href="https://github.com/rafaballerini">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=vitorhugo1207&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugo1207&layout=compact&langs_count=7&theme=dracula"/>
+</div>
 
 <!--  -->
 
