@@ -1,7 +1,7 @@
 ## 👋 Hey, folks!
 
 <p>
-  I am doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript, Windows, Linux (Arch-based and Debian-based) etc.
+  I am front-end and back-end deveployer, and doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript, Windows, Linux (Arch-based and Debian-based) etc.
 </p>
   
 <!--  -->
