@@ -29,11 +29,3 @@
   <img align="center" alt="Windows" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" />
 </div>
   
-<!--  -->
-<br>
-  
-<div align="center">
-  <a href="https://www.youtube.com/channel/UC4TC99WPuSKTBzucWPAi93g" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
-  <a href="https://www.twitch.tv/ikkiartz" target="_blank"><img src="https://img.shields.io/twitch/status/ikkiartz?color=9146ff&style=for-the-badge" target="_blank"></a>
-</div>
-  
