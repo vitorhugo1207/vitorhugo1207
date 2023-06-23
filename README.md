@@ -1,7 +1,7 @@
-## 👋 Hey, folks!
+## 👋 Olá!
 
 <p>
-  I am front-end and back-end deveployer, and doing graduation on Analysis and Systems Development on FatecLins and intend be a full stack developer. My english is intermediate and I have some expirience with Python, JavaScript, Windows, Linux (Arch-based and Debian-based) etc.
+  Eu sou desenvolvedor front-end e back-end, e estou fazendo graduação em Analise e Desenvolvimento de Sistemas na Fatec de Lins e pretendo me tornar um desenvolvedor full stack. Meu inglês é intermediario e eu tenho experiencias com Python, JavaScript, Windows, Linux (Arch-based and Debian-based) etc.
 </p>
   
 <!--  -->
