@@ -8,6 +8,7 @@
 
 <div align="center">
   <a href="https://github.com/vitorhugo1207">
+  <img height="150em" src="https://streak-stats.demolab.com/?user=vitorhugo1207&theme=dracula" />
   <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=vitorhugo1207&layout=compact&langs_count=7&theme=dracula"/>
 </div>
 
