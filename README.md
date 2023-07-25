@@ -1,7 +1,7 @@
 ## 👋 Olá!
 
 <p>
-  Eu sou desenvolvedor front-end e back-end, e estou fazendo graduação em Analise e Desenvolvimento de Sistemas na Fatec de Lins e pretendo me tornar um desenvolvedor full stack. Meu inglês é intermediario e eu tenho experiencias com Python, JavaScript, Windows, Linux (Arch-based and Debian-based) etc.
+  Eu estou estudando desenvolvimento front-end e back-end, e estou fazendo graduação em Analise e Desenvolvimento de Sistemas na Fatec de Lins e pretendo me tornar um desenvolvedor full stack. Meu inglês é intermediario e eu tenho experiencias com Python, JavaScript, Windows, Linux (Arch-based and Debian-based) etc.
 </p>
   
 <!--  -->
